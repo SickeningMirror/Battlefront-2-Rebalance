@@ -1,0 +1,45 @@
+Assault:
+Default: 36-19 > 36-20
+A280: 33-19 > 30-17
+A280 (Barrel): 33-26 > 30-21
+E11D (Barrel): 35-25 > 35-24
+
+Heavy:
+Default: 16-10 > 20-12
+FWMB-10K: 24-15 > 27-18
+T21: .09 > .067 Heat Accum. (12 > 15 shots)
+T21 (Burst): 50-35 > 49-35
+T21 (Handling + Burst): 65-35 > 49-35 
+
+Officer:
+Default: 34-17 > 34-20
+SE-44C: 31-15 > 25-12, 450 rpm
+SE-44C (Trigger): 540 rpm
+
+Speicalist: 
+Default Blaster: 45 > 67, 1600 speed > 2400 speed
+IQA-11: 67 > 75, 1600 speed > 3000 speed
+A280CFE: 33-25 > 33
+NT-242 (Disruptor): 40 impact,70 explosion dmg > 55 impact, 40 explosion dmg
+Cycler Rifle: 75 > 110, 0.34 > 0.4 heat accum., 700 speed > 5000 speed
+
+Droideka: 
+Blaster: 40-5 > 40-8
+
+Ewok:
+Wisties Pouch: 40s cooldown > 25s
+Valiant Horn: 40s cooldown > 30s
+
+Flametrooper: 
+Incendiary Grenade: 33s cooldown > 20s
+Flamethrower alt-fire: 50 direct damage, half as much drop
+
+FO Jet Trooper:
+Blaster: 20 explosion dmg > 10 dmg
+
+ISB Agent:
+Blaster: 29-17 > 35-20
+
+Wookie Warrior:
+Blaster: 15 explosion dmg > 20 dmg
+320 HP > 400 HP
