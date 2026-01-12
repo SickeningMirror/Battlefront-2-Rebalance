@@ -10,7 +10,7 @@ FWMB-10K: 24-15 > 27-17
 T21: .09 > .067 Heat Accum. (12 > 15 shots)
 T21 (Burst): 50-35 > 49-35
 T21 (Handling + Burst): 65-35 > 49-35 
-TL-50: 20-10 > 19-9
+TL-50: 20-10 > 18-9
 
 Officer:
 Default: 34-17 > 34-20
@@ -45,4 +45,5 @@ Wookie Warrior:
 Blaster: 15 explosion dmg > 20 dmg
 
 320 HP > 400 HP
+
 
