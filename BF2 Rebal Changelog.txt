@@ -1,15 +1,16 @@
 Assault:
-Default: 36-19 > 36-20
+Default: 36-19 > 36-22
 A280: 33-19 > 30-17
 A280 (Barrel): 33-26 > 30-21
 E11D (Barrel): 35-25 > 35-24
 
 Heavy:
 Default: 16-10 > 20-12
-FWMB-10K: 24-15 > 27-18
+FWMB-10K: 24-15 > 27-17
 T21: .09 > .067 Heat Accum. (12 > 15 shots)
 T21 (Burst): 50-35 > 49-35
 T21 (Handling + Burst): 65-35 > 49-35 
+TL-50: 20-10 > 19-9
 
 Officer:
 Default: 34-17 > 34-20
@@ -42,4 +43,5 @@ Blaster: 29-17 > 35-20
 
 Wookie Warrior:
 Blaster: 15 explosion dmg > 20 dmg
+
 320 HP > 400 HP
