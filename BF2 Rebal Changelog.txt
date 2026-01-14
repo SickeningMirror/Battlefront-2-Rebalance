@@ -52,6 +52,7 @@ Heroic Impact: 90% dmg reduction > 75%
 Pull Dominance: 50% less damage
 
 BB9E:
+Bacta Support (passive): 3 heal/ 1.8s > 5 heal/ 1.8s
 Smokescreen: 12s duration > 18s
 Shockspin: 30 dmg > 45 dmg
 Charge Up: 5s duration > 8s
@@ -85,3 +86,4 @@ Focus Rage: 20s cooldown > 25s
 Yoda:
 Lightsaber: 125 > 135
 Dash Attack: 85 > 100
+
