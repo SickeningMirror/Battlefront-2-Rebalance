@@ -61,6 +61,9 @@ Chewbacca:
 Blaster (unzoomed): 20-15 > 30-25
 Blaster (zoomed): 50-40 > 75-60
 
+Emperor:
+Chain Lightning: 120 > 80
+
 Grievous:
 Claw Rush: 130 dmg > 100 dmg, 3.2 duration > 2.2
 Thrust Surge: 13s cooldown > 18s
@@ -86,4 +89,5 @@ Focus Rage: 20s cooldown > 25s
 Yoda:
 Lightsaber: 125 > 135
 Dash Attack: 85 > 100
+
 
