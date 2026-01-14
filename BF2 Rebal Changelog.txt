@@ -24,11 +24,12 @@ A280CFE: 33-25 > 33
 NT-242 (Disruptor): 40 impact,70 explosion dmg > 55 impact, 40 explosion dmg
 Cycler Rifle: 75 > 110, 0.34 > 0.4 heat accum., 700 speed > 5000 speed
 
+
 Droideka: 
 Blaster: 40-5 > 40-8
 
 Ewok:
-Wisties Pouch: 40s cooldown > 25s
+Wisties Pouch: 40s cooldown > 25s, 3s Duration > 6s
 Valiant Horn: 40s cooldown > 30s
 
 Flametrooper: 
@@ -42,8 +43,45 @@ ISB Agent:
 Blaster: 29-17 > 35-20
 
 Wookie Warrior:
-Blaster: 15 explosion dmg > 20 dmg
-
+Blaster: 30-12  > 30-24
 320 HP > 400 HP
 
 
+Anakin:
+Heroic Impact: 90% dmg reduction > 75%
+Pull Dominance: 50% less damage
+
+BB9E:
+Smokescreen: 12s duration > 18s
+Shockspin: 30 dmg > 45 dmg
+Charge Up: 5s duration > 8s
+
+Chewbacca:
+Blaster (unzoomed): 20-15 > 30-25
+Blaster (zoomed): 50-40 > 75-60
+
+Grievous:
+Claw Rush: 130 dmg > 100 dmg, 3.2 duration > 2.2
+Thrust Surge: 13s cooldown > 18s
+
+Lando:
+Blaster: 40-25 > 40-35
+Disruptor: 1s stun > 1.5s
+
+Luke: 
+Lighsaber: 130 > 110
+Force Push: 150 > 140
+Force Repulse: 130/ 75 > 110/ 55 (Hero/Trooper)
+
+Phasma: 
+Blaster: 19-15 > 24-19
+Turret: 7.5m Radius > 10m, 20s cooldown > 15s
+
+Vader:
+800 HP > 600 HP
+Saber Throw: 8s cooldown > 12s
+Focus Rage: 20s cooldown > 25s
+
+Yoda:
+Lightsaber: 125 > 135
+Dash Attack: 85 > 100
