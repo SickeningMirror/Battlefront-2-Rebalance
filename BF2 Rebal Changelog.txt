@@ -1,3 +1,4 @@
+--Classes--
 Assault:
 Default: 36-19 > 36-22
 A280: 33-19 > 30-17
@@ -25,6 +26,7 @@ NT-242 (Disruptor): 40 impact,70 explosion dmg > 55 impact, 40 explosion dmg
 Cycler Rifle: 75 > 110, 0.34 > 0.4 heat accum., 700 speed > 5000 speed
 
 
+--Reinforcements--
 BX Commando Droid:
 Blaster: 30 > 40-25
 350 HP > 300 HP
@@ -51,12 +53,14 @@ Blaster: 29-17 > 35-20
 
 Sith Trooper:
 Blaster: 24-12 > 22-10
+Combat Rush: 12s Duration > 9s
 
 Wookie Warrior:
 Blaster: 30-12  > 30-24
 320 HP > 400 HP
 
 
+--Heroes & Villains--
 Anakin:
 Heroic Impact: 90% dmg reduction > 75%
 Pull Dominance: 50% less damage
@@ -99,6 +103,7 @@ Focus Rage: 20s cooldown > 25s
 Yoda:
 Lightsaber: 125 > 135
 Dash Attack: 85 > 100
+
 
 
 
