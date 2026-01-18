@@ -25,6 +25,13 @@ NT-242 (Disruptor): 40 impact,70 explosion dmg > 55 impact, 40 explosion dmg
 Cycler Rifle: 75 > 110, 0.34 > 0.4 heat accum., 700 speed > 5000 speed
 
 
+BX Commando Droid:
+Blaster: 30 > 40-25
+350 HP > 300 HP
+
+Death Trooper:
+Sonic Imploder: 28s Cooldown > 33s
+
 Droideka: 
 Blaster: 40-5 > 40-8
 
@@ -41,6 +48,9 @@ Blaster: 20 explosion dmg > 10 dmg
 
 ISB Agent:
 Blaster: 29-17 > 35-20
+
+Sith Trooper:
+Blaster: 24-12 > 22-10
 
 Wookie Warrior:
 Blaster: 30-12  > 30-24
@@ -89,5 +99,6 @@ Focus Rage: 20s cooldown > 25s
 Yoda:
 Lightsaber: 125 > 135
 Dash Attack: 85 > 100
+
 
 
